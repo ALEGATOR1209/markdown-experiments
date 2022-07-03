@@ -17,7 +17,7 @@ fun main() {
   println("Hello, world!")
 }
 ```
-Test test [a](google.com) teest
+<p color="red">Test test [a](google.com) teest</p>
 
 | TEST | TEST |
 |------|------|
